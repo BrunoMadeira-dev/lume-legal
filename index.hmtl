@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lume — Legal</title>
+  <style>
+    body { font-family: -apple-system, sans-serif; max-width: 680px; margin: 60px auto; padding: 0 24px; color: #1a1a1a; }
+    h1 { color: #C0392B; }
+    a { color: #C0392B; text-decoration: none; display: block; margin: 16px 0; font-size: 18px; }
+    a:hover { text-decoration: underline; }
+    footer { margin-top: 60px; color: #888; font-size: 13px; }
+  </style>
+</head>
+<body>
+  <h1>🔥 Lume</h1>
+  <p>Documentos legais da aplicação Lume para iOS.</p>
+  <a href="privacy.html">Política de Privacidade</a>
+  <a href="terms.html">Termos e Condições</a>
+  <footer>Bruno Miguel Ramos Madeira · brunoiosdeveloper345@gmail.com</footer>
+</body>
+</html>
